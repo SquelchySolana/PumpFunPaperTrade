@@ -85,3 +85,6 @@ ignore = ["E501"]
 quote-style = "double"
 indent-style = "space"
 line-ending = "auto"
+
+[tool.poetry]
+package-mode = false
